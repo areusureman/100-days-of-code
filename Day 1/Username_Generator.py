@@ -5,5 +5,5 @@ print("Welcome, I heard you are trying to come up with a username!")
 emotion = input("How do you feel in this current moment?\n")
 # followup question
 thing = input("Quick! Think of a random object!\n")
-#4. Combine the name of their city and pet and show them their band name.
+# gonna work some magic AKA combine the two answers and add some pizazz.
 print("your username is " + "Xx" + emotion +"_" + thing + "xX" )
